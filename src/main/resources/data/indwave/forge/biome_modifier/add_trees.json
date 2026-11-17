@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": "indwave:void_black",
+  "step": "vegetal_decoration",
+  "features": [
+    "minecraft:trees_plains",
+    "minecraft:trees_plains",
+    "minecraft:trees_birch",
+    "minecraft:trees_taiga"
+  ]
+}

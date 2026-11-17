@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": "indwave:void_black",
+  "step": "vegetal_decoration",
+  "features": [
+    "minecraft:patch_grass_plain",
+    "minecraft:flower_plains",
+    "minecraft:patch_sugar_cane",
+    "minecraft:brown_mushroom_normal",
+    "minecraft:red_mushroom_normal"
+  ]
+}
